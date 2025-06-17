@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hari
+=======
+clear
+>>>>>>> 04ca273a4c39a784f1f9e0b3dee7681249ba83da
